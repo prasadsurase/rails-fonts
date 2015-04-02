@@ -1,3 +1,5 @@
 == README
 
 This is a sample rails application to demonstrate integration of different fonts in bootstrap using the css, js and font files rather than using any specific gem for the same.
+
+Clone and run. No database. Uses ruby 2.1.5.
